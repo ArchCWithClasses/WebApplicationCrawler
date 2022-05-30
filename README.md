@@ -1,11 +1,11 @@
 # WebApplicationCrawler
 Java program using jsoup library to spider web application. 
 
-Siting jsoup for providing the crawling functionality of the program. 
+Citing jsoup for providing the crawling functionality of the program. 
 
 https://jsoup.org/
 
-Siting CodingWithTim for providing a tutorial on how to make a crawler that uses jsoup library.
+Citing CodingWithTim for providing a tutorial on how to make a crawler that uses jsoup library.
 
 https://www.youtube.com/watch?v=KZK5rnxBWcU
 
