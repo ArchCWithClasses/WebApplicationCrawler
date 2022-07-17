@@ -9,6 +9,6 @@ Citing CodingWithTim for providing a tutorial on how to make a crawler that uses
 
 https://www.youtube.com/watch?v=KZK5rnxBWcU
 
-Author: ArchCWithClasses
+Author: ReconDeveloper
 
 Currently in beta testing phase and not being distributed. The WebApplicationCrawler program should be used for educational, ctf, or ethical hacking.
